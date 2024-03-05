@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Tutorial 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment 1.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(103,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(183,20): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(259,25): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(291,27): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(320,27): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\Tutorial 2\Assignment 1.cpp(347,23): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_profiling_info,4739>::param_type' to 'int', possible loss of data
+  Tutorial 2.vcxproj -> C:\Users\josht\OneDrive\Documents\!uni\OpenCL-Tutorials-master\x64\Debug\Assignment 1\Assignment 1.exe
+  ..\images\test.pgm
+  ..\images\test.ppm
+  ..\images\test_large.pgm
+  ..\images\test_large.ppm
+  4 File(s) copied
+  kernels\my_kernels.cl
+  1 File(s) copied
+  ..\images\test.pgm
+  ..\images\test.ppm
+  ..\images\test_large.pgm
+  ..\images\test_large.ppm
+  4 File(s) copied
