@@ -1,4 +1,11 @@
-# OpenCL Tutorials
+# Image Contrast
+
+ CMP3752 Parallel Programming (Asessment 1), Achieved 77% (80% for code worth 70%, 70% for report worth 30%)
+
+Originally created 2023
+
+Program to increase the contrast of a .ppm or .pgm image file, User has choices for number of bins, cumulation algorithm, and memory location (global or local)
+
 
 ## Requirements
 
